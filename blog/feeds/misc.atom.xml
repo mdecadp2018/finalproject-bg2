@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
+&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
+&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
+&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
+&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
+&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
+&lt;p&gt;都可以.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
