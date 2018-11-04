@@ -1,7 +1,7 @@
 <!doctype html>
 <html><head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<title>計算機程式教材</title> <link rel="stylesheet" type="text/css" href="./../static/cmsimply.css">
+<title>期末分組專案</title> <link rel="stylesheet" type="text/css" href="./../static/cmsimply.css">
 
 <script type="text/javascript" src="./../static/syntaxhighlighter/shCore.js"></script>
 <script type="text/javascript" src="./../static/syntaxhighlighter/shBrushJScript.js"></script>
@@ -49,11 +49,6 @@ init_mathjax();
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
 -->
-<style>
-img {
-    border: 3px solid red;
-}
-</style>
 
 <script src="./../static/jquery.js"></script>
 <script type="text/javascript">
@@ -63,7 +58,7 @@ $(function(){
 });
 </script>
 
-</head><header><h1>2018 Fall 分組網站</h1> <confmenu>
+</head><header><h1>2018 Fall 期末分組網站</h1> <confmenu>
 <ul>
 <li><a href="index.html">Home</a></li>
 <li><a href="sitemap.html">Site Map</a></li>
@@ -72,26 +67,7 @@ $(function(){
 
 </ul>
 </confmenu></header>
-<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='簡介.html'>簡介</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='組員操作影片.html'>組員操作影片</a><ul><li><a href='Week1.html'>Week1</a></li></ul><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section> <a href='CMSimfly 網站.html'>Next</a> >> CMSimfly 網站<br /><h1>簡介</h1>
-<p>2018 Fall 計算機程式與電腦輔助設計實習課程分組網站</p>
+<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='簡介.html'>簡介</a></li></ul></nav><section> <br /><h1>簡介</h1>
+<p>2018 Fall 期末分組網站</p>
 <p>本倉儲位於:  <a href="https://github.com/mdecourse/2018fall">https://github.com/mdecourse/2018fall</a> </p>
-<p>本倉儲包含:</p>
-<h4>CMSimfly 網際內容管理系統</h4>
-<p><a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 動態內容管理系統, 以 Python3, <a href="http://flask.pocoo.org/">Flask</a>  (網際程式框架) 與 <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">bs4</a>  (html 與 xml 解析程式庫) 所打造. 需要在提供 Python 程式環境下啟動, 若在 Ubuntu 環境, 建議採 結合 <a href="https://www.nginx.com/">nginx</a> 與 <a href="https://uwsgi-docs.readthedocs.io">uwsgi</a> 的模式啟動.</p>
-<p><a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 儲存頁面的檔案位於 config/content.htm, 登入管理系統後, 可以利用 <span style="background-color: #ffff00;">generate_pages</span> 表單, 將動態網站內容轉為位於 content/ 目錄中的純 html 檔案資料, 可以送到 <a href="https://pages.github.com/">Github Pages</a> 環境中, 作為靜態網站.</p>
-<h4>啟動 CMSimfly:</h4>
-<p>更換目錄 (cd) 至本倉儲後, 可以利用可攜系統中的 Python 環境, 執行:</p>
-<p>    python wsgi.py</p>
-<p>開啟動態內容管理系統, 之後以瀏覽器開啟 <a>https://localhost:8443</a> 後以 login 登入維護內容.</p>
-<h4>編輯 CMSimfly 內容</h4>
-<p>因為 <a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 採 h1, h2 與 h3 標註切割頁面, 使用者可以在 config/content.htm 檔案中循順序安排各頁面的階次, h1 標題頁面代表第一階次, h2 代表第二階次, 而第三階次頁面則以 h3 標題為首.</p>
-<p><a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 中的頁面標題只允許使用字串, 若使用者誤將其他標註內容設為 h1, h2 或 h3 的內容, 可能導致無法正確對 config/content.htm 分頁, 造成無法編輯各分頁, 此時使用者可以嘗試利用 SciTE 編輯器修正分頁標題錯誤, 或將問題回報至 <a href="https://github.com/chiamingyen/cmsimfly/issues">https://github.com/chiamingyen/cmsimfly/issues</a> , 管理者將盡力修補頁面解析錯誤, 讓內容管理系統可以正常運作.</p>
-<h4>CMSimfly 編輯器功能</h4>
-<p><a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 採用 <a href="https://www.tiny.cloud/docs/">tinymce4</a> 作為網際編輯器, 目前可以在頁面放入一般文字與超連結外, 還可嵌入 images 檔案, 檔案連結, 影片檔, stl 零件檔 與 highlight 程式碼.</p>
-<hr/>
-<h4>Reveal 網際簡報系統</h4>
-<p><a href="https://revealjs.com">https://revealjs.com</a> 是一套利用直接利用 html 進行簡報的系統.</p>
-<p>管理者可以利用 <a href="http://leoeditor.com/">Leo Editor</a> 開啟位於 config/reveal.leo 進行簡報內容的編輯.</p>
-<h4>Pelican 靜態網誌轉換系統</h4>
-<p><a href="https://blog.getpelican.com/">https://blog.getpelican.com/</a> 是一套利用 Python 建立的靜態網誌轉換系統, 在本倉儲中, 能夠將使用者儲存於 markdown 目錄中的 .md 檔案, 配合設定檔, 轉為位於 blog 目錄中的靜態網誌檔案.</p>
-<p></p><br /> <a href='CMSimfly 網站.html'>Next</a> >> CMSimfly 網站</section></div></body></html>
+<p></p><br /> </section></div></body></html>

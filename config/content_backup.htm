@@ -1,0 +1,38 @@
+<h1>簡介</h1>
+<p>2018 Fall 計算機程式與電腦輔助設計實習課程分組網站</p>
+<p>本倉儲位於:  <a href="https://github.com/mdecourse/2018fall">https://github.com/mdecourse/2018fall</a> </p>
+<p>本倉儲包含:</p>
+<h4>CMSimfly 網際內容管理系統</h4>
+<p><a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 動態內容管理系統, 以 Python3, <a href="http://flask.pocoo.org/">Flask</a>  (網際程式框架) 與 <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">bs4</a>  (html 與 xml 解析程式庫) 所打造. 需要在提供 Python 程式環境下啟動, 若在 Ubuntu 環境, 建議採 結合 <a href="https://www.nginx.com/">nginx</a> 與 <a href="https://uwsgi-docs.readthedocs.io">uwsgi</a> 的模式啟動.</p>
+<p><a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 儲存頁面的檔案位於 config/content.htm, 登入管理系統後, 可以利用 <span style="background-color: #ffff00;">generate_pages</span> 表單, 將動態網站內容轉為位於 content/ 目錄中的純 html 檔案資料, 可以送到 <a href="https://pages.github.com/">Github Pages</a> 環境中, 作為靜態網站.</p>
+<h4>啟動 CMSimfly:</h4>
+<p>更換目錄 (cd) 至本倉儲後, 可以利用可攜系統中的 Python 環境, 執行:</p>
+<p>    python wsgi.py</p>
+<p>開啟動態內容管理系統, 之後以瀏覽器開啟 <a>https://localhost:8443</a> 後以 login 登入維護內容.</p>
+<h4>編輯 CMSimfly 內容</h4>
+<p>因為 <a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 採 h1, h2 與 h3 標註切割頁面, 使用者可以在 config/content.htm 檔案中循順序安排各頁面的階次, h1 標題頁面代表第一階次, h2 代表第二階次, 而第三階次頁面則以 h3 標題為首.</p>
+<p><a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 中的頁面標題只允許使用字串, 若使用者誤將其他標註內容設為 h1, h2 或 h3 的內容, 可能導致無法正確對 config/content.htm 分頁, 造成無法編輯各分頁, 此時使用者可以嘗試利用 SciTE 編輯器修正分頁標題錯誤, 或將問題回報至 <a href="https://github.com/chiamingyen/cmsimfly/issues">https://github.com/chiamingyen/cmsimfly/issues</a> , 管理者將盡力修補頁面解析錯誤, 讓內容管理系統可以正常運作.</p>
+<h4>CMSimfly 編輯器功能</h4>
+<p><a href="https://github.com/chiamingyen/cmsimfly">CMSimfly</a> 採用 <a href="https://www.tiny.cloud/docs/">tinymce4</a> 作為網際編輯器, 目前可以在頁面放入一般文字與超連結外, 還可嵌入 images 檔案, 檔案連結, 影片檔, stl 零件檔 與 highlight 程式碼.</p>
+<hr/>
+<h4>Reveal 網際簡報系統</h4>
+<p><a href="https://revealjs.com">https://revealjs.com</a> 是一套利用直接利用 html 進行簡報的系統.</p>
+<p>管理者可以利用 <a href="http://leoeditor.com/">Leo Editor</a> 開啟位於 config/reveal.leo 進行簡報內容的編輯.</p>
+<h4>Pelican 靜態網誌轉換系統</h4>
+<p><a href="https://blog.getpelican.com/">https://blog.getpelican.com/</a> 是一套利用 Python 建立的靜態網誌轉換系統, 在本倉儲中, 能夠將使用者儲存於 markdown 目錄中的 .md 檔案, 配合設定檔, 轉為位於 blog 目錄中的靜態網誌檔案.</p>
+<p></p><h2>CMSimfly 網站</h2>
+<p>各組必須自行更改 Config 中的網站標題, 且每次完成近端動態網頁編輯後, 以 generate_pages 按鈕, 將動態網頁資料轉為靜態網頁資料, 之後再新增、提交並推送到遠端倉儲.</p><h2>reveal 投影片</h2>
+<p>以 <a href="http://www.leoeditor.com/">Leo Editor</a> 開啟 config/reveal.leo</p><h2>pelican 網誌</h2>
+<p>以 <a href="http://www.leoeditor.com/">Leo Editor</a> 開啟 config/pelican.leo </p>
+<p>各分組必須自行更改 @edit pelicanconf.py 中的 AUTHOR 與 SITENAME</p>
+<p>更改 @edit publishconf.py 中的 SITEURL</p>
+<p></p><h1>組員操作影片</h1>
+<p>每週各分組組員必須將參與分組協同過程之電腦操作流程錄成影片後, 上傳至各自的 Youtube 帳號區, 並嵌入各分組網站頁面中.</p><h2>Week1</h2>
+<p><span>國立虎尾科技大學機械設計工程系計算機程式 - 一乙第八週第三部分, 說明如何利用 Eric6 IDE 建立所需的 calculator 計算機程式對話表單. 過程中主要學習如何啟動 Eric6, 如何建立 Eric6 專案, 如何切換 Sources tab 與 Form tab, 如何在進入 Qt Designer 後利用格點布局, 建立按鈕與 Line Edit 部件.</span></p>
+<p><iframe allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/g4ksXq7sQ4M" width="560"></iframe></p>
+<h1>Python 手冊</h1>
+<p>計算機程式教材:  <a href="http://mde.tw/cp2018/content/">http://mde.tw/cp2018/content/</a> </p>
+<p>可攜程式下載: <a href="https://drive.google.com/file/d/1Pkkjg8RX3pkZkjWEBlQBggw11u5YSn5i/view?usp=sharing">p37.7z</a></p><h1>OnShape 手冊</h1>
+<p><a href="https://www.onshape.com/">https://www.onshape.com/</a> </p>
+<p>電腦輔助設計實習課程教材: <a href="http://mde.tw/cadp2018/content/">http://mde.tw/cadp2018/content/</a> </p><h1>Fusion 360</h1>
+<p><a href="https://www.autodesk.com/products/fusion-360/students-teachers-educators">https://www.autodesk.com/products/fusion-360/students-teachers-educators</a> </p>
