@@ -1,10 +1,8 @@
 # 2018fall
-2018 Fall 計算機程式與電腦輔助設計實習課程分組倉儲
+bg2分組倉儲: https://github.com/mdecadp2018/finalproject-bg2
 
-http://mdecourse.github.io/2018fall/
+bg2分組網站: https://mdecadp2018.github.io/finalproject-bg2/content/index.html
 
-分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
+bg2分組部落格: https://mdecadp2018.github.io/finalproject-bg2/blog/index.html
 
-設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
-
-cpgx 網站: https://cpgx.kmol.info
+bg2分組投影片: https://mdecadp2018.github.io/finalproject-bg2/reveal/index.html#/
