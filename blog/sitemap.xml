@@ -4,63 +4,63 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/</loc>
-<lastmod>2018-08-27T21:22:42-00:00</lastmod>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/</loc>
+<lastmod>2018-11-12T09:57:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/archives.html</loc>
-<lastmod>2018-08-27T21:22:42-00:00</lastmod>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/archives.html</loc>
+<lastmod>2018-11-12T09:57:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/tags.html</loc>
-<lastmod>2018-08-27T21:22:42-00:00</lastmod>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/tags.html</loc>
+<lastmod>2018-11-12T09:57:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/categories.html</loc>
-<lastmod>2018-08-27T21:22:42-00:00</lastmod>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/categories.html</loc>
+<lastmod>2018-11-12T09:57:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/pages/about/</loc>
-<lastmod>2018-08-27T20:26:30+08:00</lastmod>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/pages/about/</loc>
+<lastmod>2018-11-05T09:56:56+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog.html</loc>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/2018-Fall-Project-Blog.html</loc>
 <lastmod>2018-09-10T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/category/misc.html</loc>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/category/misc.html</loc>
 <lastmod>2018-09-10T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/tag/2018fall.html</loc>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/tag/2018fall.html</loc>
 <lastmod>2018-09-10T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecourse.github.io/2018fall/blog/author/nfumde.html</loc>
+<loc>https://mdecadp2018.github.io/finalproject-bg2/blog/author/nfumde.html</loc>
 <lastmod>2018-09-10T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
