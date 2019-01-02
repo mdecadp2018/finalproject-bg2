@@ -9,11 +9,11 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="ahshoe.20161120121808.1"><vh>@settings</vh>
+<v t="ahshoe.20161120121808.1" a="E"><vh>@settings</vh>
 <v t="ahshoe.20170315212615.1"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="ahshoe.20170315212626.1"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="yen.20170429110328.1"><vh>Installation</vh>
+<v t="yen.20170429110328.1" a="E"><vh>Installation</vh>
 <v t="yen.20170429110336.1"><vh>Ubuntu 14.04</vh></v>
 <v t="leo.20171119233721.1"><vh>Windows</vh></v>
 <v t="leo.20171119233845.1"><vh>fontspec error</vh></v>
@@ -26,48 +26,51 @@
 <v t="ahshoe.20170322182713.1"><vh>@edit reference.md</vh></v>
 <v t="ahshoe.20170322181453.1"><vh>@edit refer.bib</vh></v>
 <v t="leo.20171119234752.1" a="E"><vh>封面以及摘要</vh>
-<v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh>
+<v t="ahshoe.20161120122151.1" a="E"><vh>@clean cover_and_abstract.md</vh>
 <v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
 </v>
 </v>
-<v t="leo.20171119234822.1"><vh>各章節內容</vh>
-<v t="yen.20170429214845.1"><vh>@path paragraph</vh>
-<v t="yen.20170429214838.1"><vh>@clean computer_hardware.md</vh>
-<v t="yen.20170429214838.3"><vh>電腦硬體</vh></v>
+<v t="leo.20171119234822.1" a="E"><vh>各章節內容</vh>
+<v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
+<v t="yen.20170429214838.1" a="E"><vh>@clean foreword.md</vh>
+<v t="yen.20170429214838.3"><vh>前言</vh></v>
 </v>
-<v t="yen.20170429215041.1"><vh>@clean operating_system.md</vh>
+<v t="yen.20170429215041.1" a="E"><vh>@clean operating_system.md</vh>
 <v t="yen.20170429215130.1"><vh>Windows</vh></v>
 <v t="yen.20170429215205.1"><vh>Ubuntu</vh></v>
 </v>
-<v t="yen.20170429215252.1"><vh>@clean computer_network.md</vh>
+<v t="yen.20170429215252.1" a="E"><vh>@clean computer_network.md</vh>
 <v t="yen.20170429215308.1"><vh>IPv4</vh></v>
 <v t="yen.20170429215316.1"><vh>IPv6</vh></v>
 </v>
-<v t="yen.20170429215416.1"><vh>@clean computer_programming.md</vh>
+<v t="yen.20170429215416.1" a="E"><vh>@clean computer_programming.md</vh>
 <v t="yen.20170429215446.2"><vh>C</vh></v>
 <v t="yen.20170429215446.3"><vh>Python</vh></v>
 <v t="yen.20170429215446.4"><vh>Brython</vh></v>
 <v t="yen.20170429215446.5"><vh>PyQt</vh></v>
 </v>
-<v t="yen.20170429215617.1"><vh>@clean computer_aided_design.md</vh>
+<v t="yen.20170429215617.1" a="E"><vh>@clean computer_aided_design.md</vh>
 <v t="yen.20170429215851.1"><vh>自動控制</vh></v>
 <v t="yen.20170429215830.1"><vh>機械系統模擬</vh></v>
 <v t="yen.20170429215802.1"><vh>演化運算</vh></v>
 </v>
-<v t="yen.20170429215922.1"><vh>@clean leo_editor.md</vh>
+<v t="yen.20170429215922.1" a="E"><vh>@clean leo_editor.md</vh>
 <v t="yen.20170429220001.1"><vh>Scripting</vh></v>
 </v>
-<v t="yen.20170429220128.1"><vh>@clean github.md</vh>
+<v t="yen.20170429220128.1" a="E"><vh>@clean github.md</vh>
 <v t="yen.20170429220137.1"><vh>Github</vh></v>
 </v>
-<v t="yen.20170429220231.1"><vh>@clean fossil.md</vh>
+<v t="yen.20170429220231.1" a="E"><vh>@clean fossil.md</vh>
 <v t="yen.20170429220231.2"><vh>Fossil commands</vh></v>
 </v>
-<v t="yen.20170429220335.1"><vh>@clean onshape.md</vh>
+<v t="yen.20170429220335.1" a="E"><vh>@clean onshape.md</vh>
 <v t="yen.20170429220335.2"><vh>FeatureScript</vh></v>
 </v>
 </v>
 </v>
+</v>
+<v t="ahshoe.20170129120932.1" a="E"><vh>Readme</vh>
+<v t="ahshoe.20170129120858.1"><vh>@edit README.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -114,8 +117,8 @@ chapter_list = " ".join("./paragraph/" + i for i in [
 # 若系統並未正確轉檔, 可以將 os.system 改為 g.es 表示要使用 Leo Editor 的 global 物件中的 echo string 將指令印在 log 區
 # 然後複製指令, 然後在命令列視窗中的 markdown 目錄中執行, 就可以得到錯誤訊息
 # 或許可以再從 https://stackoverflow.com/questions/26005583/return-value-of-x-os-system 中的建議改進此一指令
-#os.system("pandoc cover_and_abstract.md " + chapter_list + " reference.md -o ../pdf/report.pdf {}".format(settingFlag))
-g.es("pandoc cover_and_abstract.md " + chapter_list + " reference.md -o ../pdf/report.pdf {}".format(settingFlag))
+os.system("pandoc cover_and_abstract.md " + chapter_list + " reference.md -o ../pdf/report.pdf {}".format(settingFlag))
+print("pandoc cover_and_abstract.md " + chapter_list + " reference.md -o ../pdf/report.pdf {}".format(settingFlag))
 g.es("PDF 轉換完畢")
 print('-'*12)</t>
 <t tx="ahshoe.20161120121808.1"></t>
@@ -123,20 +126,22 @@ print('-'*12)</t>
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
 category_zh: '電腦輔助設計實習 bg2 期末報告'
-title_zh: '機電資鋼珠循環運動系統設計與製作'
-title_en: 'Design and Manufacturing of an Infomechatronic Marble Machine Project'
+title_zh: '機械手臂設計與製作'
+title_en: 'Design and Manufacturing of Robot arm Project'
 author:
-- 設計二丙 1731001 孫寶琦
-- 設計二丙 1731007 洪仁玕
-- 設計二丙 1731025 岑春煊
-- 設計二丙 1731051 瞿鴻禨
-- 設計二丙 1731061 何子淵
+- 設計二乙 40623202 吳姍蓉
+- 設計二乙 40623209 李芳瑜
+- 設計二乙 40623211 王得榮
+- 設計二乙 40623247 廖峻祥
+- 設計二乙 40623249 李秉樺
+- 設計二乙 40623251 鄧靖宣
 advisor_zh: 'Dr. Scrum'
-date: '2017.12.15'
+date: '2018.11.12'
 ---
 
 @others
 </t>
+<t tx="ahshoe.20170129120932.1"></t>
 <t tx="ahshoe.20170315212615.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
     background-color: #ffffec; /* Leo's traditional tree color */
@@ -214,14 +219,8 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="ahshoe.20170317115820.1">---
 abstract: |
-    這裡是摘要內容。A pipe character, followed by an indented block of text is treated as a literal block, in which newlines are preserved throughout the block, including the final newline.
-    
-    + 以 YAML 的方式插入。
-    + The '+' indicator says to keep newlines at the end of text blocks.
-    + 使用 Markdown 語法。
-    + 前面使用加號
-    
-    本研究的重點在於 ...
+    垂直多關節機器人，有相當高的自由度，適用於任何軌跡或角度的工作。其具有三維運動的特性，可做到高階非線性運動，是目前最廣泛應用的自動化機械裝置，常用於汽車製造商、汽車零組件與電子相關產業。
+伺服馬達是工業機器人的動力系統，一般安裝於機器人的「關節」處，是機器人運動的心臟，通常又可細分為兩個部分，一為馬達本體，二為運動控制系統。
 ---
 
 
@@ -259,10 +258,10 @@ sudo apt-get install fonts-arphic-ukai</t>
 <t tx="yen.20170429132400.1">每一位協同人員各在 users 目錄中建立一個 .leo 檔案
 
 除非必要否則不更動 markdown 目錄下的 template.tex 檔案</t>
-<t tx="yen.20170429214838.1">電腦硬體
+<t tx="yen.20170429214838.1">前言
 ===
 
-電腦硬體 的概要
+
 
 @others</t>
 <t tx="yen.20170429214838.3">前言內容。

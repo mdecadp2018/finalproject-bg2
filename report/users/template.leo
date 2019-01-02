@@ -13,7 +13,7 @@
 <v t="ahshoe.20170315212615.1"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="ahshoe.20170315212626.1"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="yen.20170429110328.1" a="E"><vh>Installation</vh>
+<v t="yen.20170429110328.1"><vh>Installation</vh>
 <v t="yen.20170429110336.1"><vh>Ubuntu 14.04</vh></v>
 </v>
 <v t="40323230.20170123213451.1"><vh>@button Report pdf</vh></v>
@@ -24,22 +24,22 @@
 <v t="40323230.20170130135731.1"><vh>@edit template.tex</vh></v>
 <v t="ahshoe.20170322182713.1"><vh>@edit reference.md</vh></v>
 <v t="ahshoe.20170322181453.1"><vh>@edit refer.bib</vh></v>
-<v t="ahshoe.20161120122151.1" a="E"><vh>@clean cover_and_abstract.md</vh>
+<v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh>
 <v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
 </v>
 <v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
 <v t="yen.20170429214838.1"><vh>@clean computer_hardware.md</vh>
 <v t="yen.20170429214838.3"><vh>電腦硬體</vh></v>
 </v>
-<v t="yen.20170429215041.1" a="E"><vh>@clean operating_system.md</vh>
+<v t="yen.20170429215041.1"><vh>@clean operating_system.md</vh>
 <v t="yen.20170429215130.1"><vh>Windows</vh></v>
 <v t="yen.20170429215205.1"><vh>Ubuntu</vh></v>
 </v>
-<v t="yen.20170429215252.1" a="E"><vh>@clean computer_network.md</vh>
+<v t="yen.20170429215252.1"><vh>@clean computer_network.md</vh>
 <v t="yen.20170429215308.1"><vh>IPv4</vh></v>
 <v t="yen.20170429215316.1"><vh>IPv6</vh></v>
 </v>
-<v t="yen.20170429215416.1" a="E"><vh>@clean computer_programming.md</vh>
+<v t="yen.20170429215416.1"><vh>@clean computer_programming.md</vh>
 <v t="yen.20170429215446.2"><vh>C</vh></v>
 <v t="yen.20170429215446.3"><vh>Python</vh></v>
 <v t="yen.20170429215446.4"><vh>Brython</vh></v>
@@ -69,7 +69,7 @@
 <v t="yen.20170429220650.1"><vh>@clean pyduino.md</vh></v>
 </v>
 </v>
-<v t="ahshoe.20170129120932.1" a="E"><vh>Readme</vh>
+<v t="ahshoe.20170129120932.1"><vh>Readme</vh>
 <v t="ahshoe.20170129120858.1"><vh>@edit ../README.md</vh></v>
 </v>
 </v>
@@ -103,18 +103,22 @@ print('-'*12)</t>
 <t tx="ahshoe.20161120122151.1">---
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
-title_zh: '電腦網路、機械設計與協同'
-title_en: 'Computer Network、Mechanical Design and Collaboration'
+category_zh: '電腦輔助設計實習 bg2 期末報告'
+title_zh: '機械手臂設計與製作'
+title_en: 'Design and Manufacturing of Robot arm Project'
 author:
-- 設計三乙 XXX 同學
-- 設計三乙 XXX 同學
-- 設計三乙 XXX 同學
-- 設計三乙 XXX 同學
-advisor_zh: '嚴家銘'
-date: '中華民國 106 年 7 月'
+- 設計二乙 40623202 吳姍蓉
+- 設計二乙 40623209 李芳瑜
+- 設計二乙 40623211 王得榮
+- 設計二乙 40623247 廖峻祥
+- 設計二乙 40623249 李秉樺
+- 設計二乙 40623251 鄧靖宣
+advisor_zh: 'Dr. Scrum'
+date: '2018.11.12'
 ---
 
-@others</t>
+@others
+</t>
 <t tx="ahshoe.20170129120932.1"></t>
 <t tx="ahshoe.20170315212615.1">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -193,13 +197,10 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="ahshoe.20170317115820.1">---
 abstract: |
-    這裡是摘要內容。
-    
-    + 以 YAML 的方式插入。
-    + 使用 Markdown 語法。
-    
-    本研究的重點在於 ...
+    垂直多關節機器人，有相當高的自由度，適用於任何軌跡或角度的工作。其具有三維運動的特性，可做到高階非線性運動，是目前最廣泛應用的自動化機械裝置，常用於汽車製造商、汽車零組件與電子相關產業。
+伺服馬達是工業機器人的動力系統，一般安裝於機器人的「關節」處，是機器人運動的心臟，通常又可細分為兩個部分，一為馬達本體，二為運動控制系統。
 ---
+
 
 </t>
 <t tx="yen.20170429103742.1"></t>
@@ -249,7 +250,8 @@ sudo apt-get install fonts-arphic-ukai</t>
 
 操作系統 的概要
 
-@others</t>
+@others
+</t>
 <t tx="yen.20170429215130.1">Windows
 ---
 
@@ -263,7 +265,7 @@ Windows 的內容
 
 各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案
 
-[Kmol]: ./images/operating_system/kmol.png {#fig:駱駝}</t>
+</t>
 <t tx="yen.20170429215205.1">Ubuntu
 ---
 
@@ -277,13 +279,15 @@ Ubuntu 的內容
 
 各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案
 
-[Kmol]: ./images/operating_system/kmol.png {#fig:駱駝}</t>
+[Kmol]: ./images/operating_system/kmol.png {#fig:駱駝}
+</t>
 <t tx="yen.20170429215252.1">電腦網路
 ===
 
 電腦網路 的概要
 
-@others</t>
+@others
+</t>
 <t tx="yen.20170429215308.1">IPv4
 ---
 
@@ -297,7 +301,8 @@ IPv4 的內容
 
 各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案
 
-[Kmol]: ./images/computer_network/kmol.png {#fig:駱駝}</t>
+[Kmol]: ./images/computer_network/kmol.png {#fig:駱駝}
+</t>
 <t tx="yen.20170429215316.1">IPv6
 ---
 
@@ -309,9 +314,12 @@ IPv6 的內容
 
 稱為圖 {@fig:駱駝}。
 
-各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案
+各 md 檔案可以在 images 目錄下自訂與 md 檔案名稱相同的子目錄存放影像檔案 [google]
 
-[Kmol]: ./images/computer_network/kmol.png {#fig:駱駝}</t>
+[google]: http://www.google.com
+
+[google] test
+</t>
 <t tx="yen.20170429215416.1">計算機程式
 ===
 
