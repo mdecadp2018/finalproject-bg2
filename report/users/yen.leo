@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2"/>
-<globals/>
+<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
+<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
+	<global_window_position top="50" left="50" height="500" width="700"/>
+	<global_log_window_position top="0" left="0" height="0" width="0"/>
+</globals>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -10,29 +13,29 @@
 <v t="ahshoe.20170315212615.1"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="ahshoe.20170315212626.1"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="yen.20170429110328.1"><vh>Installation</vh>
+<v t="yen.20170429110328.1" a="E"><vh>Installation</vh>
 <v t="yen.20170429110336.1"><vh>Ubuntu 14.04</vh></v>
 <v t="leo.20171119233721.1"><vh>Windows</vh></v>
 <v t="leo.20171119233845.1"><vh>fontspec error</vh></v>
 </v>
 <v t="40323230.20170123213451.1"><vh>@button Report pdf</vh></v>
 <v t="yen.20170429132400.1"><vh>協同著作規劃</vh></v>
-<v t="yen.20170429103742.1"><vh>@path ./../</vh>
-<v t="yen.20170429103940.1"><vh>@path markdown</vh>
+<v t="yen.20170429103742.1" a="E"><vh>@path ./../</vh>
+<v t="yen.20170429103940.1" a="E"><vh>@path markdown</vh>
 <v t="40323230.20170130135731.1"><vh>@edit template.tex</vh></v>
 <v t="ahshoe.20170322182713.1"><vh>@edit reference.md</vh></v>
 <v t="ahshoe.20170322181453.1"><vh>@edit refer.bib</vh></v>
-<v t="leo.20171119234752.1"><vh>封面以及摘要</vh>
-<v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh>
+<v t="leo.20171119234752.1" a="E"><vh>封面以及摘要</vh>
+<v t="ahshoe.20161120122151.1" a="E"><vh>@clean cover_and_abstract.md</vh>
 <v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
 </v>
 </v>
-<v t="leo.20171119234822.1"><vh>各章節內容</vh>
-<v t="yen.20170429214845.1"><vh>@path paragraph</vh>
-<v t="yen.20170429214838.1"><vh>@clean computer_hardware.md</vh>
+<v t="leo.20171119234822.1" a="E"><vh>各章節內容</vh>
+<v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
+<v t="yen.20170429214838.1" a="E"><vh>@clean computer_hardware.md</vh>
 <v t="yen.20170429214838.3"><vh>電腦硬體</vh></v>
 </v>
-<v t="yen.20170429215041.1"><vh>@clean operating_system.md</vh>
+<v t="yen.20170429215041.1" a="E"><vh>@clean operating_system.md</vh>
 <v t="yen.20170429215130.1"><vh>Windows</vh></v>
 <v t="yen.20170429215205.1"><vh>Ubuntu</vh></v>
 </v>
@@ -119,17 +122,18 @@ print('-'*12)</t>
 <t tx="ahshoe.20161120122151.1">---
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
-category_zh: '電腦輔助設計實習 bg1 期末報告'
-title_zh: '機電資鋼珠循環運動系統設計與製作'
-title_en: 'Design and Manufacturing of an Infomechatronic Marble Machine Project'
+category_zh: '電腦輔助設計實習 bg2 期末報告'
+title_zh: '機械手臂設計與製作'
+title_en: 'Design and Manufacturing of Robot arm Project'
 author:
-- 設計二丙 1731001 孫寶琦
-- 設計二丙 1731007 洪仁玕
-- 設計二丙 1731025 岑春煊
-- 設計二丙 1731051 瞿鴻禨
-- 設計二丙 1731061 何子淵
+- 設計二乙 40623202 吳姍蓉
+- 設計二乙 40623209 李芳瑜
+- 設計二乙 40623211 王得榮
+- 設計二乙 40623247 廖峻祥
+- 設計二乙 40623249 李秉樺
+- 設計二乙 40623251 鄧靖宣
 advisor_zh: 'Dr. Scrum'
-date: '2017.12.15'
+date: '2018.11.12'
 ---
 
 @others
@@ -211,14 +215,9 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="ahshoe.20170317115820.1">---
 abstract: |
-    這裡是摘要內容。A pipe character, followed by an indented block of text is treated as a literal block, in which newlines are preserved throughout the block, including the final newline.
-    
-    + 以 YAML 的方式插入。
-    + The '+' indicator says to keep newlines at the end of text blocks.
-    + 使用 Markdown 語法。
-    + 前面使用加號
-    
-    本研究的重點在於 ...
+    垂直多關節機器人，有相當高的自由度，適用於任何軌跡或角度的工作。其具有三維運動的特性，可做到高階非線性運動，是目前最廣泛應用的自動化機械裝置，常用於汽車製造商、汽車零組件與電子相關產業。
+伺服馬達是工業機器人的動力系統，一般安裝於機器人的「關節」處，是機器人運動的心臟，通常又可細分為兩個部分，一為馬達本體，二為運動控制系統。垂直多關節機器人，有相當高的自由度，適用於任何軌跡或角度的工作。其具有三維運動的特性，可做到高階非線性運動，是目前最廣泛應用的自動化機械裝置，常用於汽車製造商、汽車零組件與電子相關產業。
+伺服馬達是工業機器人的動力系統，一般安裝於機器人的「關節」處，是機器人運動的心臟，通常又可細分為兩個部分，一為馬達本體，二為運動控制系統。
 ---
 
 
