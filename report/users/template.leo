@@ -13,7 +13,7 @@
 <v t="ahshoe.20170315212615.1"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="ahshoe.20170315212626.1"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="yen.20170429110328.1" a="E"><vh>Installation</vh>
+<v t="yen.20170429110328.1"><vh>Installation</vh>
 <v t="yen.20170429110336.1"><vh>Ubuntu 14.04</vh></v>
 </v>
 <v t="40323230.20170123213451.1"><vh>@button Report pdf</vh></v>
@@ -24,22 +24,22 @@
 <v t="40323230.20170130135731.1"><vh>@edit template.tex</vh></v>
 <v t="ahshoe.20170322182713.1"><vh>@edit reference.md</vh></v>
 <v t="ahshoe.20170322181453.1"><vh>@edit refer.bib</vh></v>
-<v t="ahshoe.20161120122151.1" a="E"><vh>@clean cover_and_abstract.md</vh>
+<v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh>
 <v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
 </v>
 <v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
 <v t="yen.20170429214838.1"><vh>@clean computer_hardware.md</vh>
 <v t="yen.20170429214838.3"><vh>電腦硬體</vh></v>
 </v>
-<v t="yen.20170429215041.1" a="E"><vh>@clean operating_system.md</vh>
+<v t="yen.20170429215041.1"><vh>@clean operating_system.md</vh>
 <v t="yen.20170429215130.1"><vh>Windows</vh></v>
 <v t="yen.20170429215205.1"><vh>Ubuntu</vh></v>
 </v>
-<v t="yen.20170429215252.1" a="E"><vh>@clean computer_network.md</vh>
+<v t="yen.20170429215252.1"><vh>@clean computer_network.md</vh>
 <v t="yen.20170429215308.1"><vh>IPv4</vh></v>
 <v t="yen.20170429215316.1"><vh>IPv6</vh></v>
 </v>
-<v t="yen.20170429215416.1" a="E"><vh>@clean computer_programming.md</vh>
+<v t="yen.20170429215416.1"><vh>@clean computer_programming.md</vh>
 <v t="yen.20170429215446.2"><vh>C</vh></v>
 <v t="yen.20170429215446.3"><vh>Python</vh></v>
 <v t="yen.20170429215446.4"><vh>Brython</vh></v>
@@ -69,7 +69,7 @@
 <v t="yen.20170429220650.1"><vh>@clean pyduino.md</vh></v>
 </v>
 </v>
-<v t="ahshoe.20170129120932.1" a="E"><vh>Readme</vh>
+<v t="ahshoe.20170129120932.1"><vh>Readme</vh>
 <v t="ahshoe.20170129120858.1"><vh>@edit ../README.md</vh></v>
 </v>
 </v>
