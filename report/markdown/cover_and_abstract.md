@@ -2,23 +2,28 @@
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
 category_zh: '電腦輔助設計實習 bg2 期末報告'
-title_zh: '機械手臂設計與製作'
-title_en: 'Design and Manufacturing of Robot arm Project'
+title_zh: '機電資鋼珠循環運動系統設計與製作'
+title_en: 'Design and Manufacturing of an Infomechatronic Marble Machine Project'
 author:
-- 設計二乙 40623202 吳姍蓉
-- 設計二乙 40623209 李芳瑜
-- 設計二乙 40623211 王得榮
-- 設計二乙 40623247 廖峻祥
-- 設計二乙 40623249 李秉樺
-- 設計二乙 40623251 鄧靖宣
+- 設計二丙 1731001 孫寶琦
+- 設計二丙 1731007 洪仁玕
+- 設計二丙 1731025 岑春煊
+- 設計二丙 1731051 瞿鴻禨
+- 設計二丙 1731061 何子淵
 advisor_zh: 'Dr. Scrum'
-date: '2018.11.12'
+date: '2017.12.15'
 ---
 
 ---
 abstract: |
-    垂直多關節機器人，有相當高的自由度，適用於任何軌跡或角度的工作。其具有三維運動的特性，可做到高階非線性運動，是目前最廣泛應用的自動化機械裝置，常用於汽車製造商、汽車零組件與電子相關產業。
-伺服馬達是工業機器人的動力系統，一般安裝於機器人的「關節」處，是機器人運動的心臟，通常又可細分為兩個部分，一為馬達本體，二為運動控制系統。
+    這裡是摘要內容。A pipe character, followed by an indented block of text is treated as a literal block, in which newlines are preserved throughout the block, including the final newline.
+    
+    + 以 YAML 的方式插入。
+    + The '+' indicator says to keep newlines at the end of text blocks.
+    + 使用 Markdown 語法。
+    + 前面使用加號
+    
+    本研究的重點在於 ...
 ---
 
 
