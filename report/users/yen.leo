@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2"/>
-<globals/>
+<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
+<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
+	<global_window_position top="50" left="50" height="500" width="700"/>
+	<global_log_window_position top="0" left="0" height="0" width="0"/>
+</globals>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -17,18 +20,18 @@
 </v>
 <v t="40323230.20170123213451.1"><vh>@button Report pdf</vh></v>
 <v t="yen.20170429132400.1"><vh>協同著作規劃</vh></v>
-<v t="yen.20170429103742.1"><vh>@path ./../</vh>
-<v t="yen.20170429103940.1"><vh>@path markdown</vh>
+<v t="yen.20170429103742.1" a="E"><vh>@path ./../</vh>
+<v t="yen.20170429103940.1" a="E"><vh>@path markdown</vh>
 <v t="40323230.20170130135731.1"><vh>@edit template.tex</vh></v>
 <v t="ahshoe.20170322182713.1"><vh>@edit reference.md</vh></v>
 <v t="ahshoe.20170322181453.1"><vh>@edit refer.bib</vh></v>
-<v t="leo.20171119234752.1"><vh>封面以及摘要</vh>
+<v t="leo.20171119234752.1" a="E"><vh>封面以及摘要</vh>
 <v t="ahshoe.20161120122151.1"><vh>@clean cover_and_abstract.md</vh>
 <v t="ahshoe.20170317115820.1"><vh>摘要</vh></v>
 </v>
 </v>
-<v t="leo.20171119234822.1"><vh>各章節內容</vh>
-<v t="yen.20170429214845.1"><vh>@path paragraph</vh>
+<v t="leo.20171119234822.1" a="E"><vh>各章節內容</vh>
+<v t="yen.20170429214845.1" a="E"><vh>@path paragraph</vh>
 <v t="yen.20170429214838.1"><vh>@clean computer_hardware.md</vh>
 <v t="yen.20170429214838.3"><vh>電腦硬體</vh></v>
 </v>
@@ -119,17 +122,18 @@ print('-'*12)</t>
 <t tx="ahshoe.20161120122151.1">---
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
-category_zh: '電腦輔助設計實習 bg1 期末報告'
-title_zh: '機電資鋼珠循環運動系統設計與製作'
-title_en: 'Design and Manufacturing of an Infomechatronic Marble Machine Project'
+category_zh: '電腦輔助設計實習 bg2 期末報告'
+title_zh: '機械手臂設計與製作'
+title_en: 'Design and Manufacturing of Robot arm Project'
 author:
-- 設計二丙 1731001 孫寶琦
-- 設計二丙 1731007 洪仁玕
-- 設計二丙 1731025 岑春煊
-- 設計二丙 1731051 瞿鴻禨
-- 設計二丙 1731061 何子淵
+- 設計二乙 40623202 吳姍蓉
+- 設計二乙 40623209 李芳瑜
+- 設計二乙 40623211 王得榮
+- 設計二乙 40623247 廖峻祥
+- 設計二乙 40623249 李秉樺
+- 設計二乙 40623251 鄧靖宣
 advisor_zh: 'Dr. Scrum'
-date: '2017.12.15'
+date: '2018.11.12'
 ---
 
 @others

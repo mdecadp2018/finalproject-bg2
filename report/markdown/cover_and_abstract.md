@@ -1,17 +1,18 @@
 ---
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
-category_zh: '電腦輔助設計實習 bg1 期末報告'
-title_zh: '機電資鋼珠循環運動系統設計與製作'
-title_en: 'Design and Manufacturing of an Infomechatronic Marble Machine Project'
+category_zh: '電腦輔助設計實習 bg2 期末報告'
+title_zh: '機械手臂設計與製作'
+title_en: 'Design and Manufacturing of Robot arm Project'
 author:
-- 設計二丙 1731001 孫寶琦
-- 設計二丙 1731007 洪仁玕
-- 設計二丙 1731025 岑春煊
-- 設計二丙 1731051 瞿鴻禨
-- 設計二丙 1731061 何子淵
+- 設計二乙 40623202 吳姍蓉
+- 設計二乙 40623209 李芳瑜
+- 設計二乙 40623211 王得榮
+- 設計二乙 40623247 廖峻祥
+- 設計二乙 40623249 李秉樺
+- 設計二乙 40623251 鄧靖宣
 advisor_zh: 'Dr. Scrum'
-date: '2017.12.15'
+date: '2018.11.12'
 ---
 
 ---
