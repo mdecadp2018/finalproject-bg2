@@ -133,11 +133,11 @@ vertical: body pane on the botton</t>
 &lt;small&gt;
 Created by [bg2](https://github.com/mdecadp2018/finalproject-bg2)
 &lt;/small&gt;
-40623202 吳姍蓉
-40623209 李芳瑜
-40623211 王得榮
-40623247 廖峻祥
-40623249 李秉樺
+* 40623202 吳姍蓉
+* 40623209 李芳瑜
+* 40623211 王得榮
+* 40623247 廖峻祥
+* 40623249 李秉樺
 
 [bg2分組Blog](https://mdecadp2018.github.io/finalproject-bg2/blog/)
 
