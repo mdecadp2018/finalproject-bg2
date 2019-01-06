@@ -38,7 +38,15 @@
 </v>
 </v>
 <v t="leo.20190107005553.1" a="E"><vh>零件介紹</vh>
-<v t="leo.20190107022608.1" a="E"><vh>1</vh>
+<v t="leo.20190107022757.1"><vh>1</vh>
+<v t="leo.20190107022757.2" a="E"><vh>內容</vh>
+<v t="leo.20190107022757.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190107022757.4" a="E"><vh>圖</vh>
+<v t="leo.20190107022757.5"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190107022608.1"><vh>2</vh>
 <v t="leo.20190107022642.1" a="E"><vh>內容</vh>
 <v t="leo.20190107022642.2"><vh>first</vh></v>
 </v>
@@ -46,23 +54,45 @@
 <v t="leo.20190107022608.3"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190107014825.1"><vh>2</vh>
-<v t="leo.20190107014825.2"><vh>內容</vh></v>
+<v t="leo.20190107022937.1"><vh>3</vh>
+<v t="leo.20190107022937.2"><vh>內容</vh>
+<v t="leo.20190107022937.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190107015042.1"><vh>3</vh>
-<v t="leo.20190107015042.2"><vh>內容</vh></v>
+<v t="leo.20190107022937.4"><vh>圖</vh>
+<v t="leo.20190107022937.5"><vh>first</vh></v>
 </v>
-<v t="leo.20190107015151.1"><vh>4</vh>
-<v t="leo.20190107015151.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107015232.1"><vh>5</vh>
-<v t="leo.20190107015232.2"><vh>內容</vh></v>
+<v t="leo.20190107022842.1"><vh>4</vh>
+<v t="leo.20190107022842.2"><vh>內容</vh>
+<v t="leo.20190107022842.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190107015435.1"><vh>6</vh>
-<v t="leo.20190107015435.2"><vh>內容</vh></v>
+<v t="leo.20190107022842.4"><vh>圖</vh>
+<v t="leo.20190107022842.5"><vh>first</vh></v>
 </v>
-<v t="leo.20190107015550.1"><vh>7</vh>
-<v t="leo.20190107015550.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107023013.1"><vh>5</vh>
+<v t="leo.20190107023013.2" a="E"><vh>內容</vh>
+<v t="leo.20190107023013.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190107023013.4" a="E"><vh>圖</vh>
+<v t="leo.20190107023013.5"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190107023045.1"><vh>6</vh>
+<v t="leo.20190107023045.2" a="E"><vh>內容</vh>
+<v t="leo.20190107023045.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190107023045.4" a="E"><vh>圖</vh>
+<v t="leo.20190107023045.5"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190107023120.1"><vh>7</vh>
+<v t="leo.20190107023120.2" a="E"><vh>內容</vh>
+<v t="leo.20190107023120.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190107023120.4" a="E"><vh>圖</vh>
+<v t="leo.20190107023120.5"><vh>first</vh></v>
+</v>
 </v>
 </v>
 <v t="leo.20190106203231.1"><vh>W10</vh>
@@ -88,24 +118,36 @@
 <v t="leo.20190106182343.3"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190106182328.1" a="E"><vh>W14</vh>
-<v t="leo.20190106182328.2" a="E"><vh>week14-1</vh>
-<v t="leo.20190106182328.3"><vh>first</vh></v>
+<v t="leo.20190106182328.1"><vh>W14</vh>
+<v t="leo.20190107023158.1"><vh>week14-1</vh>
+<v t="leo.20190107023158.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106182328.2"><vh>week14-2</vh>
+<v t="leo.20190106182328.3"><vh>second</vh></v>
 </v>
 </v>
 <v t="leo.20190106182325.1"><vh>W15</vh>
-<v t="leo.20190106182325.2" a="E"><vh>week15-1</vh>
-<v t="leo.20190106182325.3"><vh>first</vh></v>
+<v t="leo.20190107023227.1"><vh>week15-1</vh>
+<v t="leo.20190107023227.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106182325.2" a="E"><vh>week15-2</vh>
+<v t="leo.20190106182325.3"><vh>second</vh></v>
 </v>
 </v>
 <v t="leo.20190106182305.1" a="E"><vh>W16</vh>
-<v t="leo.20190106182305.2" a="E"><vh>week16-1</vh>
-<v t="leo.20190106182305.3"><vh>first</vh></v>
+<v t="leo.20190107023257.1" a="E"><vh>week16-1</vh>
+<v t="leo.20190107023257.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106182305.2" a="E"><vh>week16-2</vh>
+<v t="leo.20190106182305.3"><vh>second</vh></v>
 </v>
 </v>
 <v t="leo.20190106183730.1" a="E"><vh>W17</vh>
-<v t="leo.20190106183730.2" a="E"><vh>week17-1</vh>
-<v t="leo.20190106183730.3"><vh>first</vh></v>
+<v t="leo.20190107023350.1" a="E"><vh>week17-1</vh>
+<v t="leo.20190107023350.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106183730.2" a="E"><vh>week17-2</vh>
+<v t="leo.20190106183730.3"><vh>second</vh></v>
 </v>
 </v>
 <v t="leo.20190106141018.1" a="E"><vh>W18</vh>
@@ -458,10 +500,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190106182305.3">## week16
-
-* 將OnShape繪製好的零件匯入v-rep做初步模擬
-
+<t tx="leo.20190106182305.3">
 &lt;a href="https://imgur.com/JytxAXZ"&gt;&lt;img src="https://i.imgur.com/JytxAXZ.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;width="198" height="252"&gt;&lt;/a&gt;
 </t>
@@ -479,12 +518,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190106182325.3">## week15
-
-* 夾爪的初步草稿設計完成
-* 與手臂做尺寸的設計比對後再進行夾爪與手臂的設計變更並訂定最終設計圖
-* 預計下週開始進行v-rep的摸索與研究
-
+<t tx="leo.20190106182325.3">
 &lt;a href="https://imgur.com/AR86sPs"&gt;&lt;img src="https://i.imgur.com/AR86sPs.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;width="198" height="252"&gt;&lt;/a&gt;
 
@@ -503,11 +537,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190106182328.3">## week14
-
-* 機械手臂本體初步草稿已漸漸成形，等待夾爪設計完成再做最後的設計變更
-* 討論夾爪要如何設計以及夾爪與機械手臂間的運動模式
-
+<t tx="leo.20190106182328.3">
 &lt;a href="https://imgur.com/j1qfHEQ"&gt;&lt;img src="https://i.imgur.com/j1qfHEQ.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;width="198" height="252"&gt;&lt;/a&gt;
 
@@ -615,11 +645,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190106183730.3">## week17
-
-* 進行 v-rep 模擬
-* 進行最後的模擬與確認
-
+<t tx="leo.20190106183730.3">
 &lt;a href="https://imgur.com/er3Misq"&gt;&lt;img src="https://i.imgur.com/er3Misq.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;width="198" height="252"&gt;&lt;/a&gt;
 
@@ -735,98 +761,6 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107014825.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190107014825.2">* 旋轉件:控制整個手臂360度旋轉
-
-&lt;a href="https://imgur.com/nbmEiBF"&gt;&lt;img src="https://i.imgur.com/nbmEiBF.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;
-
-</t>
-<t tx="leo.20190107015042.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190107015042.2">* 關節1:馬達放置處
-
-&lt;a href="https://imgur.com/b9YVUx7"&gt;&lt;img src="https://i.imgur.com/b9YVUx7.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;
-
-</t>
-<t tx="leo.20190107015151.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190107015151.2">* 關節2:固定連結器
-
-&lt;a href="https://imgur.com/n7AofE9"&gt;&lt;img src="https://i.imgur.com/n7AofE9.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;
-
-</t>
-<t tx="leo.20190107015232.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190107015232.2">* 關節3:馬達接著下面轉軸，夾爪在Z軸前後動
-
-&lt;a href="https://imgur.com/CamhfOo"&gt;&lt;img src="https://i.imgur.com/CamhfOo.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;
-
-</t>
-<t tx="leo.20190107015435.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190107015435.2">* 關節4:馬達放置處
-
-&lt;a href="https://imgur.com/8Ep0i10"&gt;&lt;img src="https://i.imgur.com/8Ep0i10.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;
-
-</t>
-<t tx="leo.20190107015550.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190107015550.2">## 夾爪零件
-
-* 從左上到右下依序
-
-&lt;a href="https://imgur.com/5ulaviy"&gt;&lt;img src="https://i.imgur.com/5ulaviy.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;
-
-</t>
 <t tx="leo.20190107022608.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -841,7 +775,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190107022608.3">&lt;a href="https://imgur.com/Q3JpKHX"&gt;&lt;img src="https://i.imgur.com/Q3JpKHX.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+<t tx="leo.20190107022608.3">&lt;a href="https://imgur.com/nbmEiBF"&gt;&lt;img src="https://i.imgur.com/nbmEiBF.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;width="198" height="252"&gt;&lt;/a&gt;</t>
 <t tx="leo.20190107022642.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -852,9 +786,231 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190107022642.2">## 本體零件
+<t tx="leo.20190107022642.2">* 旋轉件:控制整個手臂360度旋轉</t>
+<t tx="leo.20190107022757.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107022757.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107022757.3">## 本體零件
 
 * 底座:穩固整個機械手臂
+</t>
+<t tx="leo.20190107022757.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107022757.5">&lt;a href="https://imgur.com/Q3JpKHX"&gt;&lt;img src="https://i.imgur.com/Q3JpKHX.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190107022842.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107022842.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107022842.3">* 關節2:固定連結器</t>
+<t tx="leo.20190107022842.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107022842.5">&lt;a href="https://imgur.com/n7AofE9"&gt;&lt;img src="https://i.imgur.com/n7AofE9.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190107022937.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107022937.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107022937.3">* 關節1:馬達放置處</t>
+<t tx="leo.20190107022937.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107022937.5">&lt;a href="https://imgur.com/b9YVUx7"&gt;&lt;img src="https://i.imgur.com/b9YVUx7.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190107023013.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107023013.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023013.3">* 關節3:馬達接著下面轉軸，夾爪在Z軸前後動</t>
+<t tx="leo.20190107023013.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023013.5">&lt;a href="https://imgur.com/CamhfOo"&gt;&lt;img src="https://i.imgur.com/CamhfOo.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190107023045.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107023045.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023045.3">* 關節4:馬達放置處</t>
+<t tx="leo.20190107023045.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023045.5">&lt;a href="https://imgur.com/8Ep0i10"&gt;&lt;img src="https://i.imgur.com/8Ep0i10.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190107023120.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107023120.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023120.3">## 夾爪零件
+
+* 從左上到右下依序</t>
+<t tx="leo.20190107023120.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023120.5">&lt;a href="https://imgur.com/5ulaviy"&gt;&lt;img src="https://i.imgur.com/5ulaviy.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190107023158.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023158.2">## week14
+
+* 機械手臂本體初步草稿已漸漸成形，等待夾爪設計完成再做最後的設計變更
+* 討論夾爪要如何設計以及夾爪與機械手臂間的運動模式
+
+
+</t>
+<t tx="leo.20190107023227.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023227.2">## week15
+
+* 夾爪的初步草稿設計完成
+* 與手臂做尺寸的設計比對後再進行夾爪與手臂的設計變更並訂定最終設計圖
+* 預計下週開始進行v-rep的摸索與研究
+
+
+</t>
+<t tx="leo.20190107023257.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023257.2">## week16
+
+* 將OnShape繪製好的零件匯入v-rep做初步模擬
+
+</t>
+<t tx="leo.20190107023350.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107023350.2">## week17
+
+* 進行 v-rep 模擬
+* 進行最後的模擬與確認
+
+
 </t>
 </tnodes>
 </leo_file>
