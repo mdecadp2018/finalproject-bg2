@@ -737,8 +737,9 @@ make.start()
 
 * 底座:穩固整個機械手臂
 
-&lt;img src=https://imgur.com/j1qfHEQ
-&lt;width="252" height="361"&gt;&lt;/a&gt;</t>
+&lt;a href="https://imgur.com/Q3JpKHX"&gt;&lt;img src="https://i.imgur.com/Q3JpKHX.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="252" height="361"&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20190107014825.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
