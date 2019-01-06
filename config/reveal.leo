@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190106141018.1" a="E"><vh>W10</vh>
@@ -140,11 +140,11 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 Created by [bg2](https://github.com/mdecadp2018/finalproject-bg2)
-* 40623202 吳姍蓉
-* 40623209 李芳瑜
-* 40623211 王得榮
-* 40623247 廖峻祥
-* 40623249 李秉樺
+[40623202 吳姍蓉](https://github.com/mdecadp2018/site-40623202)
+[40623209 李芳瑜](https://github.com/mdecadp2018/site-40623209)
+[40623211 王得榮](https://github.com/mdecadp2018/site-40623211)
+[40623247 廖峻祥](https://github.com/mdecadp2018/site-40623247)
+[40623249 李秉樺](https://github.com/mdecadp2018/site-40623249)
 
 [bg2分組Blog](https://mdecadp2018.github.io/finalproject-bg2/blog/)
 &lt;/small&gt;
