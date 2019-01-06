@@ -21,79 +21,73 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190106182356.1"><vh>W10</vh>
-<v t="leo.20190106182356.2"><vh>week10-1</vh>
+<v t="leo.20190106182356.1"><vh>摘要</vh>
+<v t="leo.20190106182356.2" a="E"><vh>內容</vh>
 <v t="leo.20190106182356.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190106182356.4"><vh>week10-2</vh>
-<v t="leo.20190106182356.5"><vh>second</vh></v>
+</v>
+<v t="leo.20190106203417.1" a="E"><vh>設計理念</vh>
+<v t="leo.20190106203417.2"><vh>理念內容</vh>
+<v t="leo.20190106203417.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190106203417.4"><vh>動機內容</vh>
+<v t="leo.20190106203417.5"><vh>second</vh></v>
+</v>
+</v>
+<v t="leo.20190106203231.1"><vh>W10</vh>
+<v t="leo.20190106203231.2"><vh>week10-1</vh>
+<v t="leo.20190106203231.3"><vh>first</vh></v>
+</v>
+<v t="leo.20190106203231.4" a="E"><vh>week10-2</vh>
+<v t="leo.20190106203231.5"><vh>second</vh></v>
 </v>
 </v>
 <v t="leo.20190106182349.1"><vh>W11</vh>
-<v t="leo.20190106182349.2"><vh>week11-1</vh>
+<v t="leo.20190106182349.2" a="E"><vh>week11-1</vh>
 <v t="leo.20190106182349.3"><vh>first</vh></v>
-</v>
-<v t="leo.20190106182349.4" a="E"><vh>week11-2</vh>
-<v t="leo.20190106182349.5"><vh>second</vh></v>
 </v>
 </v>
 <v t="leo.20190106182346.1"><vh>W12</vh>
-<v t="leo.20190106182346.2"><vh>week12-1</vh>
+<v t="leo.20190106182346.2" a="E"><vh>week12-1</vh>
 <v t="leo.20190106182346.3"><vh>first</vh></v>
-</v>
-<v t="leo.20190106182346.4" a="E"><vh>week12-2</vh>
-<v t="leo.20190106182346.5"><vh>second</vh></v>
 </v>
 </v>
 <v t="leo.20190106182343.1"><vh>W13</vh>
 <v t="leo.20190106182343.2" a="E"><vh>week13-1</vh>
 <v t="leo.20190106182343.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190106182343.4" a="E"><vh>week13-2</vh>
-<v t="leo.20190106182343.5"><vh>second</vh></v>
 </v>
-</v>
-<v t="leo.20190106182328.1" a="E"><vh>W14</vh>
+<v t="leo.20190106182328.1"><vh>W14</vh>
 <v t="leo.20190106182328.2" a="E"><vh>week14-1</vh>
 <v t="leo.20190106182328.3"><vh>first</vh></v>
-</v>
-<v t="leo.20190106182328.4" a="E"><vh>week14-2</vh>
-<v t="leo.20190106182328.5"><vh>second</vh></v>
 </v>
 </v>
 <v t="leo.20190106182325.1"><vh>W15</vh>
 <v t="leo.20190106182325.2" a="E"><vh>week15-1</vh>
 <v t="leo.20190106182325.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190106182325.4" a="E"><vh>week15-2</vh>
-<v t="leo.20190106182325.5"><vh>second</vh></v>
-</v>
 </v>
 <v t="leo.20190106182305.1"><vh>W16</vh>
 <v t="leo.20190106182305.2" a="E"><vh>week16-1</vh>
 <v t="leo.20190106182305.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190106182305.4" a="E"><vh>week16-2</vh>
-<v t="leo.20190106182305.5"><vh>second</vh></v>
 </v>
-</v>
-<v t="leo.20190106183730.1" a="E"><vh>W17</vh>
+<v t="leo.20190106183730.1"><vh>W17</vh>
 <v t="leo.20190106183730.2" a="E"><vh>week17-1</vh>
 <v t="leo.20190106183730.3"><vh>first</vh></v>
 </v>
-<v t="leo.20190106183730.4" a="E"><vh>week17-2</vh>
-<v t="leo.20190106183730.5"><vh>second</vh></v>
 </v>
-</v>
-<v t="leo.20190106141018.1" a="E"><vh>W18</vh>
+<v t="leo.20190106141018.1"><vh>W18</vh>
 <v t="leo.20190106141214.1" a="E"><vh>week18-1</vh>
 <v t="leo.20190106141214.2"><vh>first</vh></v>
 </v>
-<v t="leo.20190106141054.1" a="E"><vh>week18-2</vh>
-<v t="leo.20190106141054.2"><vh>second</vh></v>
+</v>
+<v t="leo.20190106203922.1" a="E"><vh>結論</vh>
+<v t="leo.20190106203922.2" a="E"><vh>內容</vh>
+<v t="leo.20190106203922.3"><vh>first</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -198,8 +192,6 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2018Fall Finalproject-bg2
 
-## 跳棋機械手臂
-
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
@@ -209,6 +201,7 @@ Created by [bg2](https://github.com/mdecadp2018/finalproject-bg2)
 * [40623211 王得榮](https://github.com/mdecadp2018/site-40623211)
 * [40623247 廖峻祥](https://github.com/mdecadp2018/site-40623247)
 * [40623249 李秉樺](https://github.com/mdecadp2018/site-40623249)
+* [40623251 鄧靖宣](https://github.com/mdecadp2018/site-40623251)
 
 [bg2分組Blog](https://mdecadp2018.github.io/finalproject-bg2/blog/)
 &lt;/small&gt;
@@ -409,16 +402,6 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190106141054.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106141054.2"></t>
 <t tx="leo.20190106141214.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -430,8 +413,7 @@ make.start()
 </t>
 <t tx="leo.20190106141214.2">## week18
 
-
-</t>
+*確認 Week10 至 Week17 週所有進度都確實完成，並重新統整瀏覽一次，做最後的確認，練習期末上台報告</t>
 <t tx="leo.20190106182305.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -451,17 +433,6 @@ make.start()
 * 將OnShape繪製好的零件匯入v-rep做初步模擬
 
 
-</t>
-<t tx="leo.20190106182305.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106182305.5">
 </t>
 <t tx="leo.20190106182325.1">&lt;section&gt;
 @others
@@ -484,16 +455,6 @@ make.start()
 * 預計下週開始進行v-rep的摸索與研究
 
 </t>
-<t tx="leo.20190106182325.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106182325.5"></t>
 <t tx="leo.20190106182328.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -509,22 +470,13 @@ make.start()
 						
 </t>
 <t tx="leo.20190106182328.3">## week14
+
 * 機械手臂本體初步草稿已漸漸成形，等待夾爪設計完成再做最後的設計變更
 * 討論夾爪要如何設計以及夾爪與機械手臂間的運動模式
 
 
 
 </t>
-<t tx="leo.20190106182328.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106182328.5"></t>
 <t tx="leo.20190106182343.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -540,21 +492,10 @@ make.start()
 						
 </t>
 <t tx="leo.20190106182343.3">## week13
+
 * 決定機械手臂類型—跳棋機械手臂
 * 進行機械手臂本體初步的草稿設計
 
-
-</t>
-<t tx="leo.20190106182343.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106182343.5">
 
 </t>
 <t tx="leo.20190106182346.1">&lt;section&gt;
@@ -578,16 +519,6 @@ make.start()
 
 
 </t>
-<t tx="leo.20190106182346.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106182346.5"></t>
 <t tx="leo.20190106182349.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -609,17 +540,6 @@ make.start()
 
 
 </t>
-<t tx="leo.20190106182349.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106182349.5">
-</t>
 <t tx="leo.20190106182356.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -634,32 +554,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190106182356.3">## week10
+<t tx="leo.20190106182356.3">## 摘要
 
-* 討論要做什麼題目，每位組員針對自己有興趣的題目做搜尋，下週確定期末專案題目。
+    垂直多關節機器人，有相當高的自由度，適用於任何軌跡或角度的工作。其具有三維運動的特性，可做到高階非線性運動，是目前最廣泛應用的自動化機械裝置，常用於汽車製造商、汽車零組件與電子相關產業。
+    
+    伺服馬達是工業機器人的動力系統，一般安裝於機器人的「關節」
+處，是機器人運動的心臟，通常又可細分為兩個部分，一為馬達本體，二
+為運動控制系統。
 
-
-</t>
-<t tx="leo.20190106182356.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190106182356.5">## week10
-
-工作分配
-----
-
-    40623202(組長):Onshape手冊
-    40623209:零件繪製、軟體
-    40623211:機構設計
-    40623247:零件繪製、軟體
-    40623249:機構設計
-    40623251:Onshape手冊
 
 </t>
 <t tx="leo.20190106183730.1">&lt;section&gt;
@@ -678,10 +580,16 @@ make.start()
 </t>
 <t tx="leo.20190106183730.3">## week17
 
-
+*進行v-rep模擬
+*進行最後的模擬與確認
 
 </t>
-<t tx="leo.20190106183730.4">&lt;section data-markdown&gt;
+<t tx="leo.20190106203231.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190106203231.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -690,6 +598,98 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190106183730.5"></t>
+<t tx="leo.20190106203231.3">## week10
+
+* 討論要做什麼題目，每位組員針對自己有興趣的題目做搜尋，下週確定期末專案題目。
+
+
+</t>
+<t tx="leo.20190106203231.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203231.5">## week10
+
+工作分配
+----
+
+    40623202(組長):Onshape手冊
+    40623209:零件繪製、軟體
+    40623211:機構設計
+    40623247:零件繪製、軟體
+    40623249:機構設計
+    40623251:Onshape手冊
+
+</t>
+<t tx="leo.20190106203417.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190106203417.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203417.3">## 設計理念
+
+    因為產品使用者市場為老人，所以設計成簡單機構的外表，並且考量到老人不太會使用這些先進產品，所以設計一個按鈕，一按就可以開啟，反之亦然，沒電時只需要將機械手臂拿去家裡任何一個插座充電即可。
+    
+    希望能透過簡單化的設計讓老人也能輕鬆使用機械手臂。
+
+
+
+</t>
+<t tx="leo.20190106203417.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203417.5">##設計動機
+
+    What:下棋機械手臂
+    
+    Who:主要以老人族群
+    
+    Why:解決老人在家無聊沒有休閒消遣
+    
+    Where:任何地方皆可使用
+
+
+</t>
+<t tx="leo.20190106203922.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190106203922.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106203922.3">## 結論
+
+ 經過這次的期末專題，從分組到討論，到最後模擬出來的成品，這過程中遇到很多困難，不僅溝通有問題，開會時間喬不攏，設計出來的東西不符合預期等等，到最後終於成功模擬出來，真的很感動。才知道一個產品從設計、選材、制定加工方法，最後是成品，是經過這麼多道繁瑣的程序才完成。這次的機械手臂也設計得很成功，從動機理念到模擬，大家都必須分工合作，只有不斷的討論以及修改才能讓我們的專題越來越完整，透過這次的專題，讓我們大家不僅對機械手臂有更深的認識，更是一個
+寶貴的團隊合作經驗。
+
+
+</t>
 </tnodes>
 </leo_file>
