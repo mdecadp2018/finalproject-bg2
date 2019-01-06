@@ -38,7 +38,7 @@
 </v>
 </v>
 <v t="leo.20190107005553.1" a="E"><vh>零件介紹</vh>
-<v t="leo.20190107005553.2"><vh>1</vh>
+<v t="leo.20190107005553.2" a="E"><vh>1</vh>
 <v t="leo.20190107005553.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20190107014825.1"><vh>2</vh>
@@ -737,7 +737,7 @@ make.start()
 
 * 底座:穩固整個機械手臂
 
-&lt;img src=https://imgur.com/j1qfHEQ.png
+&lt;img src=https://imgur.com/j1qfHEQ
 &lt;width="252" height="361"&gt;&lt;/a&gt;</t>
 <t tx="leo.20190107014825.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
