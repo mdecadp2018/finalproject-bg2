@@ -24,7 +24,15 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190106141018.1" a="E"><vh>W10</vh>
+<v t="leo.20190106141214.1" a="E"><vh>week10-1</vh>
+<v t="leo.20190106141214.2"><vh>first</vh></v>
+</v>
+<v t="leo.20190106141054.1" a="E"><vh>week10-2</vh>
+<v t="leo.20190106141054.2"><vh>second</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -138,10 +146,8 @@ Created by [bg2](https://github.com/mdecadp2018/finalproject-bg2)
 * 40623247 廖峻祥
 * 40623249 李秉樺
 
-&lt;/small&gt;
-
 [bg2分組Blog](https://mdecadp2018.github.io/finalproject-bg2/blog/)
-
+&lt;/small&gt;
 
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
@@ -334,5 +340,37 @@ make.start()
 
 						
 </t>
+<t tx="leo.20190106141018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106141054.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106141054.2">##week 10-2 
+
+</t>
+<t tx="leo.20190106141214.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106141214.2">## week10
+工作內容</t>
 </tnodes>
 </leo_file>
