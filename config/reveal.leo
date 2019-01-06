@@ -888,7 +888,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190107024546.2">## 夾爪零件
+<t tx="leo.20190107024546.2">### 夾爪零件
 
 &lt;a href="https://imgur.com/5ulaviy"&gt;&lt;img src="https://i.imgur.com/5ulaviy.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;width="198" height="252"&gt;&lt;/a&gt;
