@@ -24,12 +24,12 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190106182356.1"><vh>摘要</vh>
+<v t="leo.20190106182356.1" a="E"><vh>摘要</vh>
 <v t="leo.20190106182356.2" a="E"><vh>內容</vh>
 <v t="leo.20190106182356.3"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190106203417.1"><vh>設計理念</vh>
+<v t="leo.20190106203417.1" a="E"><vh>設計理念</vh>
 <v t="leo.20190106203417.2" a="E"><vh>理念內容</vh>
 <v t="leo.20190106203417.3"><vh>first</vh></v>
 </v>
@@ -38,25 +38,30 @@
 </v>
 </v>
 <v t="leo.20190107005553.1" a="E"><vh>零件介紹</vh>
-<v t="leo.20190107005553.2" a="E"><vh>1</vh>
-<v t="leo.20190107005553.3"><vh>內容</vh></v>
+<v t="leo.20190107022608.1" a="E"><vh>1</vh>
+<v t="leo.20190107022642.1" a="E"><vh>內容</vh>
+<v t="leo.20190107022642.2"><vh>first</vh></v>
 </v>
-<v t="leo.20190107014825.1" a="E"><vh>2</vh>
+<v t="leo.20190107022608.2" a="E"><vh>圖</vh>
+<v t="leo.20190107022608.3"><vh>first</vh></v>
+</v>
+</v>
+<v t="leo.20190107014825.1"><vh>2</vh>
 <v t="leo.20190107014825.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107015042.1" a="E"><vh>3</vh>
+<v t="leo.20190107015042.1"><vh>3</vh>
 <v t="leo.20190107015042.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107015151.1" a="E"><vh>4</vh>
+<v t="leo.20190107015151.1"><vh>4</vh>
 <v t="leo.20190107015151.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107015232.1" a="E"><vh>5</vh>
+<v t="leo.20190107015232.1"><vh>5</vh>
 <v t="leo.20190107015232.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107015435.1" a="E"><vh>6</vh>
+<v t="leo.20190107015435.1"><vh>6</vh>
 <v t="leo.20190107015435.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107015550.1" a="E"><vh>7</vh>
+<v t="leo.20190107015550.1"><vh>7</vh>
 <v t="leo.20190107015550.2"><vh>內容</vh></v>
 </v>
 </v>
@@ -68,7 +73,7 @@
 <v t="leo.20190106203231.5"><vh>second</vh></v>
 </v>
 </v>
-<v t="leo.20190106182349.1"><vh>W11</vh>
+<v t="leo.20190106182349.1" a="E"><vh>W11</vh>
 <v t="leo.20190106182349.2" a="E"><vh>week11-1</vh>
 <v t="leo.20190106182349.3"><vh>first</vh></v>
 </v>
@@ -78,7 +83,7 @@
 <v t="leo.20190106182346.3"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190106182343.1"><vh>W13</vh>
+<v t="leo.20190106182343.1" a="E"><vh>W13</vh>
 <v t="leo.20190106182343.2" a="E"><vh>week13-1</vh>
 <v t="leo.20190106182343.3"><vh>first</vh></v>
 </v>
@@ -88,7 +93,7 @@
 <v t="leo.20190106182328.3"><vh>first</vh></v>
 </v>
 </v>
-<v t="leo.20190106182325.1" a="E"><vh>W15</vh>
+<v t="leo.20190106182325.1"><vh>W15</vh>
 <v t="leo.20190106182325.2" a="E"><vh>week15-1</vh>
 <v t="leo.20190106182325.3"><vh>first</vh></v>
 </v>
@@ -116,7 +121,7 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -436,7 +441,9 @@ make.start()
 </t>
 <t tx="leo.20190106141214.2">## week18
 
-* 確認 Week10 至 Week17 週所有進度都確實完成，並重新統整瀏覽一次，做最後的確認，練習期末上台報告</t>
+* 確認 Week10 至 Week17 週所有進度都確實完成，並重新統整瀏覽一次，做最後的確認，練習期末上台報告
+
+</t>
 <t tx="leo.20190106182305.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -479,7 +486,9 @@ make.start()
 * 預計下週開始進行v-rep的摸索與研究
 
 &lt;a href="https://imgur.com/AR86sPs"&gt;&lt;img src="https://i.imgur.com/AR86sPs.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190106182328.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -612,7 +621,9 @@ make.start()
 * 進行最後的模擬與確認
 
 &lt;a href="https://imgur.com/er3Misq"&gt;&lt;img src="https://i.imgur.com/er3Misq.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190106203231.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -724,22 +735,6 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20190107005553.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190107005553.3">## 本體零件
-
-* 底座:穩固整個機械手臂
-
-&lt;a href="https://imgur.com/Q3JpKHX"&gt;&lt;img src="https://i.imgur.com/Q3JpKHX.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;
-</t>
 <t tx="leo.20190107014825.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -752,7 +747,9 @@ make.start()
 <t tx="leo.20190107014825.2">* 旋轉件:控制整個手臂360度旋轉
 
 &lt;a href="https://imgur.com/nbmEiBF"&gt;&lt;img src="https://i.imgur.com/nbmEiBF.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107015042.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -765,7 +762,9 @@ make.start()
 <t tx="leo.20190107015042.2">* 關節1:馬達放置處
 
 &lt;a href="https://imgur.com/b9YVUx7"&gt;&lt;img src="https://i.imgur.com/b9YVUx7.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107015151.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -778,7 +777,9 @@ make.start()
 <t tx="leo.20190107015151.2">* 關節2:固定連結器
 
 &lt;a href="https://imgur.com/n7AofE9"&gt;&lt;img src="https://i.imgur.com/n7AofE9.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107015232.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -791,7 +792,9 @@ make.start()
 <t tx="leo.20190107015232.2">* 關節3:馬達接著下面轉軸，夾爪在Z軸前後動
 
 &lt;a href="https://imgur.com/CamhfOo"&gt;&lt;img src="https://i.imgur.com/CamhfOo.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107015435.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -804,7 +807,9 @@ make.start()
 <t tx="leo.20190107015435.2">* 關節4:馬達放置處
 
 &lt;a href="https://imgur.com/8Ep0i10"&gt;&lt;img src="https://i.imgur.com/8Ep0i10.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107015550.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -819,6 +824,37 @@ make.start()
 * 從左上到右下依序
 
 &lt;a href="https://imgur.com/5ulaviy"&gt;&lt;img src="https://i.imgur.com/5ulaviy.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190107022608.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190107022608.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107022608.3">&lt;a href="https://imgur.com/Q3JpKHX"&gt;&lt;img src="https://i.imgur.com/Q3JpKHX.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190107022642.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190107022642.2">## 本體零件
+
+* 底座:穩固整個機械手臂
+</t>
 </tnodes>
 </leo_file>
