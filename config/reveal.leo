@@ -140,11 +140,11 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 Created by [bg2](https://github.com/mdecadp2018/finalproject-bg2)
-[40623202 吳姍蓉](https://github.com/mdecadp2018/site-40623202)
-[40623209 李芳瑜](https://github.com/mdecadp2018/site-40623209)
-[40623211 王得榮](https://github.com/mdecadp2018/site-40623211)
-[40623247 廖峻祥](https://github.com/mdecadp2018/site-40623247)
-[40623249 李秉樺](https://github.com/mdecadp2018/site-40623249)
+* [40623202 吳姍蓉](https://github.com/mdecadp2018/site-40623202)
+* [40623209 李芳瑜](https://github.com/mdecadp2018/site-40623209)
+* [40623211 王得榮](https://github.com/mdecadp2018/site-40623211)
+* [40623247 廖峻祥](https://github.com/mdecadp2018/site-40623247)
+* [40623249 李秉樺](https://github.com/mdecadp2018/site-40623249)
 
 [bg2分組Blog](https://mdecadp2018.github.io/finalproject-bg2/blog/)
 &lt;/small&gt;
