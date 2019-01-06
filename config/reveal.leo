@@ -38,22 +38,22 @@
 </v>
 </v>
 <v t="leo.20190107005553.1" a="E"><vh>零件介紹</vh>
-<v t="leo.20190107024119.1"><vh>1</vh>
+<v t="leo.20190107024119.1" a="E"><vh>1</vh>
 <v t="leo.20190107024119.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107024039.1"><vh>2</vh>
+<v t="leo.20190107024039.1" a="E"><vh>2</vh>
 <v t="leo.20190107024039.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107024204.1"><vh>3</vh>
+<v t="leo.20190107024204.1" a="E"><vh>3</vh>
 <v t="leo.20190107024204.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107024236.1"><vh>4</vh>
+<v t="leo.20190107024236.1" a="E"><vh>4</vh>
 <v t="leo.20190107024236.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107024300.1"><vh>5</vh>
+<v t="leo.20190107024300.1" a="E"><vh>5</vh>
 <v t="leo.20190107024300.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20190107024511.1"><vh>6</vh>
+<v t="leo.20190107024511.1" a="E"><vh>6</vh>
 <v t="leo.20190107024511.2"><vh>內容</vh></v>
 </v>
 <v t="leo.20190107024546.1" a="E"><vh>7</vh>
@@ -799,8 +799,11 @@ make.start()
 						
 </t>
 <t tx="leo.20190107024039.2">* 旋轉件:控制整個手臂360度旋轉
+
 &lt;a href="https://imgur.com/nbmEiBF"&gt;&lt;img src="https://i.imgur.com/nbmEiBF.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107024119.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -826,8 +829,11 @@ make.start()
 						
 </t>
 <t tx="leo.20190107024204.2">* 關節1:馬達放置處
+
 &lt;a href="https://imgur.com/b9YVUx7"&gt;&lt;img src="https://i.imgur.com/b9YVUx7.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107024236.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -838,8 +844,11 @@ make.start()
 						
 </t>
 <t tx="leo.20190107024236.2">* 關節2:固定連結器
+
 &lt;a href="https://imgur.com/n7AofE9"&gt;&lt;img src="https://i.imgur.com/n7AofE9.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107024300.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -850,8 +859,11 @@ make.start()
 						
 </t>
 <t tx="leo.20190107024300.2">* 關節3:馬達接著下面轉軸，夾爪在Z軸前後動
+
 &lt;a href="https://imgur.com/CamhfOo"&gt;&lt;img src="https://i.imgur.com/CamhfOo.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107024511.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -862,8 +874,11 @@ make.start()
 						
 </t>
 <t tx="leo.20190107024511.2">* 關節4:馬達放置處
+
 &lt;a href="https://imgur.com/8Ep0i10"&gt;&lt;img src="https://i.imgur.com/8Ep0i10.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
-&lt;width="198" height="252"&gt;&lt;/a&gt;</t>
+&lt;width="198" height="252"&gt;&lt;/a&gt;
+
+</t>
 <t tx="leo.20190107024546.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -875,7 +890,6 @@ make.start()
 </t>
 <t tx="leo.20190107024546.2">## 夾爪零件
 
-* 從左上到右下依序
 &lt;a href="https://imgur.com/5ulaviy"&gt;&lt;img src="https://i.imgur.com/5ulaviy.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;width="198" height="252"&gt;&lt;/a&gt;
 </t>
